@@ -203,13 +203,13 @@ jumbled 13 times.
 
       Process finished with exit code 0
 
-## Setup ->
+## Setup
 • Fork <br />
 • Clone `git clone https://github.com/<username>/Rubiks-Cube-Solver.git` <br />
 • cd `Rubiks-Cube-Solver` <br />
 • `g++ main.cpp -o main` <br />
 • `./main`
 
-## Future Add Ons ->
+## Future Add Ons
 • Adding 3-d modeling to the rubik's cube. <br />
 • Implementing Edge Pattern Database.
