@@ -4,7 +4,7 @@ Rubik's Cube Solver
 ## Tech Stack
 • C++ <br />
 • OOP  <br />
-• Graph Algorithms  <br />
+• Graph Algorithms
 
 ## Salient Features
 • Modeled a virtual Rubik’s Cube (3x3) in 3 different classes/models using standard data-structures present
@@ -12,7 +12,7 @@ in C++. <br />
 • Achieved a solving time of under 3 seconds for a Rubik’s Cube jumbled 8 times, using BFS, DFS and
 IDDFS algorithms. <br />
 • Implemented the Korf ’s IDA* Algorithm achieving a solving time of under 10 seconds for a Rubik’s Cube
-jumbled 13 times. <br />
+jumbled 13 times.
 
 ## Results
 ### DFS Solver 
@@ -147,7 +147,9 @@ jumbled 13 times. <br />
              B B G 
 
       Time taken to solve: 1.11703 seconds
+      
       L L L L B R U U2 B2 R2 
+      
       Rubik's Cube:
 
              W W W 
@@ -180,7 +182,9 @@ jumbled 13 times. <br />
              Y W O 
 
       R F2 D' U' U F2 B' L' D B B2 F' R 
+      
       Time taken to solve: 9.3639 seconds
+      
       Rubik's Cube:
 
              W W W 
@@ -200,13 +204,12 @@ jumbled 13 times. <br />
       Process finished with exit code 0
 
 ## Setup ->
-• Fork the repository <br />
-• Clone the forked repository -> <br />
- `git clone https://github.com/<username>/Rubiks-Cube-Solver.git` <br />
+• Fork <br />
+• Clone `git clone https://github.com/<username>/Rubiks-Cube-Solver.git` <br />
 • cd `Rubiks-Cube-Solver` <br />
 • `g++ main.cpp -o main` <br />
 • `./main`
 
 ## Future Add Ons ->
 • Adding 3-d modeling to the rubik's cube. <br />
-• Implementing Edge Pattern Database. <br />
+• Implementing Edge Pattern Database.
