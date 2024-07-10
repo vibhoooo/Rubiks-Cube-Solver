@@ -7,12 +7,9 @@ Rubik's Cube Solver
 • Graph Algorithms
 
 ## Salient Features
-• Modeled a virtual Rubik’s Cube (3x3) in 3 different classes/models using standard data-structures present
-in C++. <br />
-• Achieved a solving time of under 3 seconds for a Rubik’s Cube jumbled 8 times, using BFS, DFS and
-IDDFS algorithms. <br />
-• Implemented the Korf ’s IDA* Algorithm achieving a solving time of under 10 seconds for a Rubik’s Cube
-jumbled 13 times.
+• Modeled a virtual Rubik’s Cube (3x3) in 3 different classes/models using standard data-structures present in C++. <br />
+• Achieved a solving time of under 3 seconds for a Rubik’s Cube jumbled 8 times, using BFS, DFS and IDDFS algorithms. <br />
+• Implemented the Korf ’s IDA* Algorithm achieving a solving time of under 10 seconds for a Rubik’s Cube jumbled 13 times.
 
 ## Results
 ### DFS Solver 
@@ -204,11 +201,15 @@ jumbled 13 times.
       Process finished with exit code 0
 
 ## Setup
-• Fork <br />
-• Clone `git clone https://github.com/<username>/Rubiks-Cube-Solver.git` <br />
-• cd `Rubiks-Cube-Solver` <br />
-• `g++ main.cpp -o main` <br />
-• `./main`
+      Fork
+      
+      Clone git clone https://github.com/<username>/Rubiks-Cube-Solver.git
+      
+      cd Rubiks-Cube-Solver
+
+      Running
+      g++ main.cpp -o main
+      ./main
 
 ## Future Add Ons
 • Adding 3-d modeling to the rubik's cube. <br />
