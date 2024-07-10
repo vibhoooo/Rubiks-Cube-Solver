@@ -203,11 +203,13 @@ Rubik's Cube Solver
 ## Setup
       Fork
       
-      Clone git clone https://github.com/<username>/Rubiks-Cube-Solver.git
-      
+      Clone 
+      git clone https://github.com/<username>/Rubiks-Cube-Solver.git
+
+      Navigate
       cd Rubiks-Cube-Solver
 
-      Running
+      Run
       g++ main.cpp -o main
       ./main
 
